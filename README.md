@@ -24,6 +24,13 @@ Let it not distract you from your work ;-)
                           
 ## Installation
 
+When creating a new project first:
+
+    composer create-project symfony/skeleton snake
+    cd snake
+    
+When the project is setup:
+
     composer require dbu/snake-bundle
 
 ## Run
